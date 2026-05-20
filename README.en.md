@@ -7,6 +7,8 @@
   🇬🇧 <strong>English</strong>
 </p>
 
+*Introduction*:  https://babyvibe.github.io/deplao-builder/
+
 ---
 
 > A multi-account Zalo desktop app with integrated CRM, ERP, POS, Workflow automation and AI Assistant — helping sales and customer care teams operate centrally in one single application.
@@ -317,7 +319,7 @@ Screens are ordered by typical usage flow: dashboard → chat → CRM → workfl
     <td>
       <img src="./assets/chat.png" alt="Unified chat inbox in Deplao" width="360" />
       <br />
-      <sub><strong>Unified inbox</strong></sub>
+      <sub><strong>Unified inbox with AI</strong></sub>
     </td>
     <td>
       <img src="./assets/crm.png" alt="CRM and contact management in Deplao" width="360" />
@@ -434,11 +436,7 @@ Deplao prioritizes a local-first architecture:
 
 ## 🙏 Acknowledgements
 
-Deplao would like to thank the project:
-👉 https://github.com/RFS-ADRENO/zca-js
-
-Without the contributions and foundation from this project, Deplao would not have been possible.
-
-We deeply appreciate the value the open-source community brings 💙
+Deplao would like to thank the project: 👉 https://github.com/RFS-ADRENO/zca-js
+Without the contributions and foundation from this project, Deplao would not have been possible. We deeply appreciate the value the open-source community brings 💙
 
 ---
