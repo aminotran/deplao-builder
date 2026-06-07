@@ -221,7 +221,7 @@ flowchart TB
     EP -.->|forward request| BRL
 ```
 
-> Employees have **no local DB** — all actions are relayed to the Boss machine and filtered by the configured permission set.
+> Employees still have their **own workspace** (DB, media) on their machine. Since Zalo only allows one connection at a time, all Zalo requests are **relayed to the Boss** for processing based on the configured permissions.
 
 ---
 

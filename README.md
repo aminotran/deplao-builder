@@ -261,7 +261,7 @@ flowchart TB
     EP -.->|forward request| BRL
 ```
 
-> Nhân viên **không có DB riêng** — mọi thao tác relay về Boss xử lý theo quyền đã cấp.
+> Nhân viên vẫn có **workspace riêng** (DB, media) trên máy. Do Zalo chỉ cho phép 1 kết nối cùng lúc, mọi request Zalo được **relay về Boss** để xử lý theo quyền đã cấp.
 
 ---
 
